@@ -1,0 +1,7 @@
+{
+  "student_id": "66114540618",
+  "name": "รัฐชา มะหะหมัด",
+  "llm_model": "qwen2.5-coder:7b",
+  "embed_model": "nomic-embed-text",
+  "notes": "แก้ student_id และ name เป็นของตัวเองก่อนส่ง"
+}
